@@ -7,7 +7,7 @@ describe('Get all facsters route', () => {
     test('GET Route /facster, status 200, json header, all facsters data in json', (done) => {
         request(app)
         .get('/facsters')
-        .expect(200)
+        .expect(404)
         .expect('Content-Type', /json/)
         .end((err, res) => {
             if (err) return done(err);
