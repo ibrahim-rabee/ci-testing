@@ -1,0 +1,201 @@
+{
+  "facsters": [
+    {
+      "id": 1,
+      "firstname": "Abdullah",
+      "surname": "Chaudry",
+      "cohort": 11,
+      "hobby": "late night sql",
+      "superpower": "linting wizard"
+    },
+    {
+      "id": 2,
+      "firstname": "Amelie",
+      "surname": "Mystery",
+      "cohort": 11
+    },
+    {
+      "id": 3,
+      "firstname": "Aseel",
+      "surname": "Mustafa",
+      "cohort": 11
+    },
+    {
+      "id": 4,
+      "firstname": "Alina",
+      "surname": "Solinas",
+      "cohort": 11
+    },
+    {
+      "id": 5,
+      "firstname": "Bart",
+      "surname": "Bucknill",
+      "cohort": 11
+    },
+    {
+      "id": 6,
+      "firstname": "Yahia",
+      "surname": "Mystery",
+      "cohort": 11
+    },
+    {
+      "id": 7,
+      "firstname": "Muhammad",
+      "surname": "Abdulhadi",
+      "cohort": "G8"
+    },
+    {
+      "id": 8,
+      "firstname": "Muhammad",
+      "surname": "Abdulhadi",
+      "cohort": "G8"
+    },
+    {
+      "id": 9,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 10,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 11,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 12,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 13,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 14,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 15,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 16,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 17,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 18,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 19,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 20,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 21,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 22,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 23,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 24,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 25,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 26,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 27,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    },
+    {
+      "id": 28,
+      "firstname": "Malek",
+      "surname": "Zd",
+      "cohort": "G11"
+    }
+  ],
+  "hobbies": [
+    {
+      "facster_id": 1,
+      "hobby": "late night sql",
+      "superpower": "linting wizard"
+    },
+    {
+      "facster_id": 2,
+      "hobby": "baking french breads",
+      "superpower": "this variable afficionado"
+    },
+    {
+      "facster_id": 3,
+      "hobby": "Pro Athlete",
+      "superpower": "Burning down cocoa fields"
+    },
+    {
+      "facster_id": 4,
+      "hobby": "tiramisuing",
+      "superpower": "Waterfalls in parallel"
+    },
+    {
+      "facster_id": 5,
+      "hobby": "Ninja training",
+      "superpower": "NodeBot!!"
+    }
+  ]
+}
